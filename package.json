@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-http",
 	"author": "Jean Gabes",
-	"description": "",
+	"description": "HTTP(s) checks",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -18,6 +18,10 @@
 	"repository": "https://github.com/shinken-monitoring/pack-http",
 	"keywords": [
 	  "pack",
+	  "http",
+	  "https",
+	  "certificate",
+	  "ssl"
 	  
 	],
 	"dependencies": {
