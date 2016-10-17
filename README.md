@@ -1,4 +1,4 @@
 pack-http
 =========
 
-Shinken configuration pack for HTTP
+Shinken configuration pack for HTTP(s)
